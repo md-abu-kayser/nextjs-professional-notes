@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/md-abu-kayser/nextjs-professional-notes#readme",
   "devDependencies": {
+    "@types/node": "^26.0.1",
     "typescript": "^6.0.3"
   }
 }
